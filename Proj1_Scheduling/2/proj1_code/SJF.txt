@@ -1,0 +1,339 @@
+
+cpu_burst[2]	set[2]
+child proc 3362 
+
+proc[8] remain_cpu : 1 
+proc[8] remain_cpu : 0 
+
+------------tick[1]-----------
+ready queue[9] : 5 6 2 9 1 4 0 3 7 
+running queue[1] : 8 
+
+------------tick[2]-----------
+ready queue[9] : 5 6 2 9 1 4 0 3 7 
+running queue[1] : 8 
+
+------------tick[3]-----------
+ready queue[8] : 6 2 9 1 4 0 3 7 
+running queue[1] : 5 
+
+------------tick[4]-----------
+ready queue[8] : 6 2 9 1 4 0 3 7 
+running queue[1] : 5 
+
+------------tick[5]-----------
+ready queue[8] : 6 2 9 1 4 0 3 7 
+running queue[1] : 5 
+
+------------tick[6]-----------
+ready queue[8] : 6 2 9 1 4 0 3 7 
+running queue[1] : 5 
+
+------------tick[7]-----------
+ready queue[8] : 6 2 9 1 4 0 3 7 
+running queue[1] : 5 
+
+------------tick[8]-----------
+ready queue[7] : 2 9 1 4 0 3 7 
+running queue[1] : 6 
+
+------------tick[9]-----------
+ready queue[7] : 2 9 1 4 0 3 7 
+running queue[1] : 6 
+
+------------tick[10]-----------
+ready queue[7] : 2 9 1 4 0 3 7 
+running queue[1] : 6 
+
+------------tick[11]-----------
+ready queue[7] : 2 9 1 4 0 3 7 
+running queue[1] : 6 
+
+------------tick[12]-----------
+ready queue[7] : 2 9 1 4 0 3 7 
+running queue[1] : 6 
+
+------------tick[13]-----------
+ready queue[7] : 2 9 1 4 0 3 7 
+running queue[1] : 6 
+
+------------tick[14]-----------
+ready queue[6] : 9 1 4 0 3 7 
+running queue[1] : 2 
+
+------------tick[15]-----------
+ready queue[6] : 9 1 4 0 3 7 
+running queue[1] : 2 
+
+------------tick[16]-----------
+ready queue[6] : 9 1 4 0 3 7 
+running queue[1] : 2 
+
+------------tick[17]-----------
+ready queue[6] : 9 1 4 0 3 7 
+running queue[1] : 2 
+
+------------tick[18]-----------
+ready queue[6] : 9 1 4 0 3 7 
+running queue[1] : 2 
+
+------------tick[19]-----------
+ready queue[6] : 9 1 4 0 3 7 
+running queue[1] : 2 
+
+------------tick[20]-----------
+ready queue[6] : 9 1 4 0 3 7 
+running queue[1] : 2 
+
+------------tick[21]-----------
+ready queue[5] : 1 4 0 3 7 
+running queue[1] : 9 
+
+------------tick[22]-----------
+ready queue[5] : 1 4 0 3 7 
+running queue[1] : 9 
+
+------------tick[23]-----------
+ready queue[5] : 1 4 0 3 7 
+running queue[1] : 9 
+
+------------tick[24]-----------
+ready queue[5] : 1 4 0 3 7 
+running queue[1] : 9 
+
+------------tick[25]-----------
+ready queue[5] : 1 4 0 3 7 
+running queue[1] : 9 
+
+------------tick[26]-----------
+ready queue[5] : 1 4 0 3 7 
+running queue[1] : 9 
+
+------------tick[27]-----------
+ready queue[5] : 1 4 0 3 7 
+running queue[1] : 9 
+
+------------tick[28]-----------
+ready queue[5] : 1 4 0 3 7 
+running queue[1] : 9 
+
+------------tick[29]-----------
+ready queue[4] : 4 0 3 7 
+running queue[1] : 1 
+
+------------tick[30]-----------
+ready queue[4] : 4 0 3 7 
+running queue[1] : 1 
+
+------------tick[31]-----------
+ready queue[4] : 4 0 3 7 
+running queue[1] : 1 
+
+------------tick[32]-----------
+ready queue[4] : 4 0 3 7 
+running queue[1] : 1 
+
+------------tick[33]-----------
+ready queue[4] : 4 0 3 7 
+running queue[1] : 1 
+
+------------tick[34]-----------
+ready queue[4] : 4 0 3 7 
+running queue[1] : 1 
+
+------------tick[35]-----------
+ready queue[4] : 4 0 3 7 
+running queue[1] : 1 
+
+------------tick[36]-----------
+ready queue[4] : 4 0 3 7 
+running queue[1] : 1 
+
+------------tick[37]-----------
+ready queue[4] : 4 0 3 7 
+running queue[1] : 1 
+
+------------tick[38]-----------
+ready queue[3] : 0 3 7 
+running queue[1] : 4 
+
+------------tick[39]-----------
+ready queue[3] : 0 3 7 
+running queue[1] : 4 
+
+------------tick[40]-----------
+ready queue[3] : 0 3 7 
+running queue[1] : 4 
+
+------------tick[41]-----------
+ready queue[3] : 0 3 7 
+running queue[1] : 4 
+
+------------tick[42]-----------
+ready queue[3] : 0 3 7 
+running queue[1] : 4 
+
+------------tick[43]-----------
+ready queue[3] : 0 3 7 
+running queue[1] : 4 
+
+------------tick[44]-----------
+ready queue[3] : 0 3 7 
+running queue[1] : 4 
+
+------------tick[45]-----------
+ready queue[3] : 0 3 7 
+running queue[1] : 4 
+
+------------tick[46]-----------
+ready queue[3] : 0 3 7 
+running queue[1] : 4 
+
+------------tick[47]-----------
+ready queue[2] : 3 7 
+running queue[1] : 0 
+
+------------tick[48]-----------
+ready queue[2] : 3 7 
+running queue[1] : 0 
+
+------------tick[49]-----------
+ready queue[2] : 3 7 
+running queue[1] : 0 
+
+------------tick[50]-----
+cpu_burst[10]	set[10]
+child proc 3361 
+
+proc[7] remain_cpu : 9 
+proc[7] remain_cpu : 8 
+proc[7] remain_cpu : 7 
+proc[7] remain_cpu : 6 
+proc[7] remain_cpu : 5 
+proc[7] remain_cpu : 4 
+proc[7] remain_cpu : 3 
+proc[7] remain_cpu : 2 
+proc[7] remain_cpu : 1 
+proc[7] remain_cpu : 0 
+------
+ready queue[2] : 3 7 
+running queue[1] : 0 
+
+------------tick[51]-----------
+ready queue[2] : 3 7 
+running queue[1] : 0 
+
+------------tick[52]-----------
+ready queue[2] : 3 7 
+running queue[1] : 0 
+
+------------tick[53]-----------
+ready queue[2] : 3 7 
+running queue[1] : 0 
+
+------------tick[54]-----------
+ready queue[2] : 3 7 
+running queue[1] : 0 
+
+------------tick[55]-----------
+ready queue[2] : 3 7 
+running queue[1] : 0 
+
+------------tick[56]-----------
+ready queue[2] : 3 7 
+running queue[1] : 0 
+
+------------tick[57]-----------
+ready queue[1] : 7 
+running queue[1] : 3 
+
+------------tick[58]-----------
+ready queue[1] : 7 
+running queue[1] : 3 
+
+------------tick[59]-----------
+ready queue[1] : 7 
+running queue[1] : 3 
+
+------------tick[60]-----------
+ready queue[1] : 7 
+running queue[1] : 3 
+
+------------tick[61]-----------
+ready queue[1] : 7 
+running queue[1] : 3 
+
+------------tick[62]-----------
+ready queue[1] : 7 
+running queue[1] : 3 
+
+------------tick[63]-----------
+ready queue[1] : 7 
+running queue[1] : 3 
+
+------------tick[64]-----------
+ready queue[1] : 7 
+running queue[1] : 3 
+
+------------tick[65]-----------
+ready queue[1] : 7 
+running queue[1] : 3 
+
+------------tick[66]-----------
+ready queue[1] : 7 
+running queue[1] : 3 
+
+------------tick[67]-----------
+ready queue[0] : 
+running queue[1] : 7 
+
+------------tick[68]-----------
+ready queue[0] : 
+running queue[1] : 7 
+
+------------tick[69]-----------
+ready queue[0] : 
+running queue[1] : 7 
+
+------------tick[70]-----------
+ready queue[0] : 
+running queue[1] : 7 
+
+------------tick[71]-----------
+ready queue[0] : 
+running queue[1] : 7 
+
+------------tick[72]-----------
+ready queue[0] : 
+running queue[1] : 7 
+
+------------tick[73]-----------
+ready queue[0] : 
+running queue[1] : 7 
+
+------------tick[74]-----------
+ready queue[0] : 
+running queue[1] : 7 
+
+------------tick[75]-----------
+ready queue[0] : 
+running queue[1] : 7 
+
+------------tick[76]-----------
+ready queue[0] : 
+running queue[1] : 7 
+
+-----------waiting time------------
+prod[0] : 46 
+prod[1] : 28 
+prod[2] : 13 
+prod[3] : 56 
+prod[4] : 37 
+prod[5] : 2 
+prod[6] : 7 
+prod[7] : 66 
+prod[8] : 0 
+prod[9] : 20 
+
+
+Average Waiting Time : 27.500000 

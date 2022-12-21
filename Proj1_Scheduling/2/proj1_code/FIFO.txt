@@ -1,0 +1,724 @@
+msgq : 65536
+
+------------tick 1-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 2-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 3-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 4-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 5-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 6-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 7-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 8-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 9-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 10-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 11-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 12-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 13-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 14-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 15-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 16-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 17-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 18-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 19-----------
+ready queue[9] : 1 2 3 4 5 6 7 8 9 
+running queue[1] : 0
+running_pid[3557]	remain_cpu_burst : 8	cpu_time : 8 
+waiting queue[0] : 
+
+
+------------tick 20-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 21-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 22-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 23-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 24-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 25-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 26-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 27-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 28-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 29-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 30-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 31-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 32-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 33-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 34-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 35-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 36-----------
+ready queue[8] : 2 3 4 5 6 7 8 9 
+running queue[1] : 1
+running_pid[3556]	remain_cpu_burst : 10	cpu_time : 10 
+waiting queue[0] : 
+
+
+------------tick 37-----------
+ready queue[7] : 3 4 5 6 7 8 9 
+running queue[1] : 2
+running_pid[3555]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 38-----------
+ready queue[7] : 3 4 5 6 7 8 9 
+running queue[1] : 2
+running_pid[3555]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 39-----------
+ready queue[7] : 3 4 5 6 7 8 9 
+running queue[1] : 2
+running_pid[3555]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 40-----------
+ready queue[7] : 3 4 5 6 7 8 9 
+running queue[1] : 2
+running_pid[3555]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 41-----------
+ready queue[7] : 3 4 5 6 7 8 9 
+running queue[1] : 2
+running_pid[3555]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 42-----------
+ready queue[7] : 3 4 5 6 7 8 9 
+running queue[1] : 2
+running_pid[3555]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 43-----------
+ready queue[7] : 3 4 5 6 7 8 9 
+running queue[1] : 2
+running_pid[3555]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 44-----------
+ready queue[7] : 3 4 5 6 7 8 9 
+running queue[1] : 2
+running_pid[3555]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 45-----------
+ready queue[7] : 3 4 5 6 7 8 9 
+running queue[1] : 2
+running_pid[3555]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 46-----------
+ready queue[6] : 4 5 6 7 8 9 
+running queue[1] : 3
+running_pid[3554]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 47-----------
+ready queue[6] : 4 5 6 7 8 9 
+running queue[1] : 3
+running_pid[3554]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 48-----------
+ready queue[6] : 4 5 6 7 8 9 
+running queue[1] : 3
+running_pid[3554]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 49-----------
+ready queue[6] : 4 5 6 7 8 9 
+running queue[1] : 3
+running_pid[3554]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 50-----------
+ready queue[6] : 4 5 6 7 8 9 
+running queue[1] : 3
+running_pid[3554]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 51-----------
+ready queue[6] : 4 5 6 7 8 9 
+running queue[1] : 3
+running_pid[3554]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 52-----------
+ready queue[6] : 4 5 6 7 8 9 
+running queue[1] : 3
+running_pid[3554]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 53-----------
+ready queue[6] : 4 5 6 7 8 9 
+running queue[1] : 3
+running_pid[3554]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 54-----------
+ready queue[6] : 4 5 6 7 8 9 
+running queue[1] : 3
+running_pid[3554]	remain_cpu_burst : 4	cpu_time : 4 
+waiting queue[0] : 
+
+
+------------tick 55-----------
+ready queue[5] : 5 6 7 8 9 
+running queue[1] : 4
+running_pid[3553]	remain_cpu_burst : 11	cpu_time : 11 
+waiting queue[0] : 
+
+
+------------tick 56-----------
+ready queue[5] : 5 6 7 8 9 
+running queue[1] : 4
+running_pid[3553]	remain_cpu_burst : 11	cpu_time : 11 
+waiting queue[0] : 
+
+
+------------tick 57-----------
+ready queue[5] : 5 6 7 8 9 
+running queue[1] : 4
+running_pid[3553]	remain_cpu_burst : 11	cpu_time : 11 
+waiting queue[0] : 
+
+
+------------tick 58-----------
+ready queue[5] : 5 6 7 8 9 
+running queue[1] : 4
+running_pid[3553]	remain_cpu_burst : 11	cpu_time : 11 
+waiting queue[0] : 
+
+
+------------tick 59-----------
+ready queue[5] : 5 6 7 8 9 
+running queue[1] : 4
+running_pid[3553]	remain_cpu_burst : 11	cpu_time : 11 
+waiting queue[0] : 
+
+
+------------tick 60-----------
+ready queue[5] : 5 6 7 8 9 
+running queue[1] : 4
+running_pid[3553]	remain_cpu_burst : 11	cpu_time : 11 
+waiting queue[0] : 
+
+
+------------tick 61-----------
+ready queue[5] : 5 6 7 8 9 
+running queue[1] : 4
+running_pid[3553]	remain_cpu_burst : 11	cpu_time : 11 
+waiting queue[0] : 
+
+
+------------tick 62-----------
+ready queue[5] : 5 6 7 8 9 
+running queue[1] : 4
+running_pid[3553]	remain_cpu_burst : 11	cpu_time : 11 
+waiting queue[0] : 
+
+
+------------tick 63-----------
+ready queue[5] : 5 6 7 8 9 
+running queue[1] : 4
+running_pid[3553]	remain_cpu_burst : 11	cpu_time : 11 
+waiting queue[0] : 
+
+
+------------tick 64-----------
+ready queue[5] : 5 6 7 8 9 
+running queue[1] : 4
+running_pid[3553]	remain_cpu_burst : 11	cpu_time : 11 
+waiting queue[0] : 
+
+
+------------tick 65-----------
+ready queue[5] : 5 6 7 8 9 
+running queue[1] : 4
+running_pid[3553]	remain_cpu_burst : 11	cpu_time : 11 
+waiting queue[0] : 
+
+
+------------tick 66-----------
+ready queue[5] : 5 6 7 8 9 
+running queue[1] : 4
+running_pid[3553]	remain_cpu_burst : 11	cpu_time : 11 
+waiting queue[0] : 
+
+
+------------tick 67-----------
+ready queue[4] : 6 7 8 9 
+running queue[1] : 5
+running_pid[3552]	remain_cpu_burst : 12	cpu_time : 12 
+waiting queue[0] : 
+
+
+------------tick 68-----------
+ready queue[4] : 6 7 8 9 
+running queue[1] : 5
+running_pid[3552]	remain_cpu_burst : 12	cpu_time : 12 
+waiting queue[0] : 
+
+
+------------tick 69-----------
+ready queue[4] : 6 7 8 9 
+running queue[1] : 5
+running_pid[3552]	remain_cpu_burst : 12	cpu_time : 12 
+waiting queue[0] : 
+
+
+------------tick 70-----------
+ready queue[4] : 6 7 8 9 
+running queue[1] : 5
+running_pid[3552]	remain_cpu_burst : 12	cpu_time : 12 
+waiting queue[0] : 
+
+
+------------tick 71-----------
+ready queue[4] : 6 7 8 9 
+running queue[1] : 5
+running_pid[3552]	remain_cpu_burst : 12	cpu_time : 12 
+waiting queue[0] : 
+
+
+------------tick 72-----------
+ready queue[4] : 6 7 8 9 
+running queue[1] : 5
+running_pid[3552]	remain_cpu_burst : 12	cpu_time : 12 
+waiting queue[0] : 
+
+
+------------tick 73-----------
+ready queue[4] : 6 7 8 9 
+running queue[1] : 5
+running_pid[3552]	remain_cpu_burst : 12	cpu_time : 12 
+waiting queue[0] : 
+
+
+------------tick 74-----------
+ready queue[4] : 6 7 8 9 
+running queue[1] : 5
+running_pid[3552]	remain_cpu_burst : 12	cpu_time : 12 
+waiting queue[0] : 
+
+
+------------tick 75-----------
+ready queue[4] : 6 7 8 9 
+running queue[1] : 5
+running_pid[3552]	remain_cpu_burst : 12	cpu_time : 12 
+waiting queue[0] : 
+
+
+------------tick 76-----------
+ready queue[4] : 6 7 8 9 
+running queue[1] : 5
+running_pid[3552]	remain_cpu_burst : 12	cpu_time : 12 
+waiting queue[0] : 
+
+
+------------tick 77-----------
+ready queue[4] : 6 7 8 9 
+running queue[1] : 5
+running_pid[3552]	remain_cpu_burst : 12	cpu_time : 12 
+waiting queue[0] : 
+
+
+------------tick 78-----------
+ready queue[3] : 7 8 9 
+running queue[1] : 6
+running_pid[3551]	remain_cpu_burst : 9	cpu_time : 9 
+waiting queue[0] : 
+
+
+------------tick 79-----------
+ready queue[3] : 7 8 9 
+running queue[1] : 6
+running_pid[3551]	remain_cpu_burst : 9	cpu_time : 9 
+waiting queue[0] : 
+
+
+------------tick 80-----------
+ready queue[3] : 7 8 9 
+running queue[1] : 6
+running_pid[3551]	remain_cpu_burst : 9	cpu_time : 9 
+waiting queue[0] : 
+
+
+------------tick 81-----------
+ready queue[3] : 7 8 9 
+running queue[1] : 6
+running_pid[3551]	remain_cpu_burst : 9	cpu_time : 9 
+waiting queue[0] : 
+
+
+------------tick 82-----------
+ready queue[2] : 8 9 
+running queue[1] : 7
+running_pid[3550]	remain_cpu_burst : 9	cpu_time : 9 
+waiting queue[0] : 
+
+
+------------tick 83-----------
+ready queue[2] : 8 9 
+running queue[1] : 7
+running_pid[3550]	remain_cpu_burst : 9	cpu_time : 9 
+waiting queue[0] : 
+
+
+------------tick 84-----------
+ready queue[2] : 8 9 
+running queue[1] : 7
+running_pid[3550]	remain_cpu_burst : 9	cpu_time : 9 
+waiting queue[0] : 
+
+
+------------tick 85-----------
+ready queue[2] : 8 9 
+running queue[1] : 7
+running_pid[3550]	remain_cpu_burst : 9	cpu_time : 9 
+waiting queue[0] : 
+
+
+------------tick 86-----------
+ready queue[1] : 9 
+running queue[1] : 8
+running_pid[3549]	remain_cpu_burst : 17	cpu_time : 17 
+waiting queue[0] : 
+
+
+------------tick 87-----------
+ready queue[1] : 9 
+running queue[1] : 8
+running_pid[3549]	remain_cpu_burst : 17	cpu_time : 17 
+waiting queue[0] : 
+
+
+------------tick 88-----------
+ready queue[1] : 9 
+running queue[1] : 8
+running_pid[3549]	remain_cpu_burst : 17	cpu_time : 17 
+waiting queue[0] : 
+
+
+------------tick 89-----------
+ready queue[1] : 9 
+running queue[1] : 8
+running_pid[3549]	remain_cpu_burst : 17	cpu_time : 17 
+waiting queue[0] : 
+
+
+------------tick 90-----------
+ready queue[1] : 9 
+running queue[1] : 8
+running_pid[3549]	remain_cpu_burst : 17	cpu_time : 17 
+waiting queue[0] : 
+
+
+------------tick 91-----------
+ready queue[1] : 9 
+running queue[1] : 8
+running_pid[3549]	remain_cpu_burst : 17	cpu_time : 17 
+waiting queue[0] : 
+
+
+------------tick 92-----------
+ready queue[1] : 9 
+running queue[1] : 8
+running_pid[3549]	remain_cpu_burst : 17	cpu_time : 17 
+waiting queue[0] : 
+
+
+------------tick 93-----------
+ready queue[1] : 9 
+running queue[1] : 8
+running_pid[3549]	remain_cpu_burst : 17	cpu_time : 17 
+waiting queue[0] : 
+
+
+------------tick 94-----------
+ready queue[1] : 9 
+running queue[1] : 8
+running_pid[3549]	remain_cpu_burst : 17	cpu_time : 17 
+waiting queue[0] : 
+
+
+------------tick 95-----------
+ready queue[1] : 9 
+running queue[1] : 8
+running_pid[3549]	remain_cpu_burst : 17	cpu_time : 17 
+waiting queue[0] : 
+
+
+------------tick 96-----------
+ready queue[0] : 
+running queue[1] : 9
+running_pid[3548]	remain_cpu_burst : 19	cpu_time : 19 
+waiting queue[0] : 
+
+
+------------tick 97-----------
+ready queue[0] : 
+running queue[1] : 9
+running_pid[3548]	remain_cpu_burst : 19	cpu_time : 19 
+waiting queue[0] : 
+
+
+------------tick 98-----------
+ready queue[0] : 
+running queue[1] : 9
+running_pid[3548]	remain_cpu_burst : 19	cpu_time : 19 
+waiting queue[0] : 
+
+
+------------tick 99-----------
+ready queue[0] : 
+running queue[1] : 9
+running_pid[3548]	remain_cpu_burst : 19	cpu_time : 19 
+waiting queue[0] : 
+
+
+------------tick 100-----------
+ready queue[0] : 
+running queue[1] : 9
+running_pid[3548]	remain_cpu_burst : 19	cpu_time : 19 
+waiting queue[0] : 
+
+
+------------tick 101-----------
+ready queue[0] : 
+running queue[1] : 9
+running_pid[3548]	remain_cpu_burst : 19	cpu_time : 19 
+waiting queue[0] : 
+
+
+------------tick 102-----------
+ready queue[0] : 
+running queue[1] : 9
+running_pid[3548]	remain_cpu_burst : 19	cpu_time : 19 
+waiting queue[0] : 
+
+
+------------tick 103-----------
+ready queue[0] : 
+running queue[1] : 9
+running_pid[3548]	remain_cpu_burst : 19	cpu_time : 19 
+waiting queue[0] : 
+
+
+------------tick 104-----------
